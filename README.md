@@ -1,2 +1,2 @@
 # CustomSpinner
-Custom spinner using CAEmitterLayer
+Custom spinner using CAReplicatorLayer
